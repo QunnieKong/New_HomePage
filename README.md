@@ -1,6 +1,6 @@
 # New_HomePage
 
-<h1>New HomePage by KDQ.</hi>
+<h1>New HomePage by KDQ.</h1>
 <p>Learning new web front-end technologies by creating this homepage.</p>
 <p>For example:</p>
 <ul>
