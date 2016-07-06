@@ -8,7 +8,7 @@
 <li>CSS3</li>
 <li>CSS Spirite</li>
 <li>Angular JS</li>
-<li>Bootstrap<li>
+<li>Bootstrap</li>
 <li>LESS CSS</li>
 </ul>
 
