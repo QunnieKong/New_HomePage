@@ -6,6 +6,7 @@
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
+<li>JQuery</li>
 <li>CSS Spirite</li>
 <li>Angular JS</li>
 <li>Bootstrap</li>
