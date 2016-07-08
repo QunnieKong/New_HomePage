@@ -6,11 +6,11 @@
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
-<li>JQuery</li>
 <li>CSS Spirite</li>
-<li>Angular JS</li>
 <li>Bootstrap</li>
 <li>LESS CSS</li>
 </ul>
 
-<p>Not complete.</p>
+<h4>Not complete.</h4>
+<h3>Screen Shot:</h3>
+<image src="https://github.com/QunnieKong/New_HomePage/blob/master/screenshot.jpg?raw=true"/>
